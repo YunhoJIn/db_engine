@@ -6,4 +6,4 @@
 # 데이터 흐음
  - source -> bigdata -> Stage -> Service
 # 전체 데이터 조회 Cypher
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;match (n)-[r]->(m) return *
+&nbsp;&nbsp;&nbsp;match (n)-[r]->(m) return *
