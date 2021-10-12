@@ -1,4 +1,5 @@
-# DataLineage_Example
- - Datalineage란 원천 데이터로부터 서비스되는 데이터까지 ETL 되는 동안의 데이터의 출처를 인지하고자 하는 관리업무
- - 해당 예제는 Graph DB의 장점을 사용하여 해당 데이터의 연결을 한 눈에 확인하는 것이 목표
- - 해당 속성을 변경하게 될 시 받게되는 영향력을 한 눈에 파악할 수 있는 것이 장점
+# AlwaysOn
+ - 해당 명령문은 관리자 Powershell에서 실행되어야 한다<br/>
+ - DHCP IP 할당을 사용 시 Always On Group 역할에 Static IP을 할당할 수 없어 Powershell에서 강제 할당<br/>
+ - DHCP IP 할당을 사용 시 Failover Cluster에 Static IP를 할당할 수 없어  Powershell에서 강제 할당<br/>
+<br/><br/>
